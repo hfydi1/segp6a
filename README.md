@@ -2,6 +2,8 @@
 
 This 3D simulator was made for module COMP2019 Software Engineering Group Project.
 
+---
+
 ## Installation
 
 To be updated upon prototype release. Stay tuned!
